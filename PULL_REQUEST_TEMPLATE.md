@@ -1,4 +1,3 @@
-[DRAFT | WIP]
 ## Summary
 > Include a short description of the changes (bug or feature), and their impact, along with a summary of the solution
 
