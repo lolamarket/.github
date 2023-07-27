@@ -8,7 +8,8 @@ Please, include steps to reproduce the bug and validate the solution. This shoul
 -->
 
 ## Related JIRA issues
-Link to the JIRA issues associated with this pull request. Eg.: [ONE-007](https://lolamarket.atlassian.net/browse/ONE-7)
+Link to the JIRA issues associated with this pull request: 
+[ONE-007](https://lolamarket.atlassian.net/browse/ONE-7)
 
 ## Relevant logs or outputs
 Use this section to attach pictures/videos that demonstrate your changes working / healthy
