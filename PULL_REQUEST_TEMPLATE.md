@@ -1,3 +1,8 @@
+<!-- ## ℹ️ PR Guidelines
+Before submitting this pull request, please ensure that you have followed our PR guidelines. You can find the detailed guidelines [here]([<insert_link_to_PR_guidelines>](https://www.notion.so/lolamarket/Git-Conventions-dad2de0e80f84614bc7634bc50669817?pvs=4).
+Familiarizing yourself with these guidelines will help streamline the review and merging process. Thank you for your collaboration!
+-->
+
 ## Summary
 Include a short description of the changes (bug or feature), and their impact, along with a summary of the solution
 
