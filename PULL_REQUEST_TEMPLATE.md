@@ -4,20 +4,21 @@ Familiarizing yourself with these guidelines will help streamline the review and
 -->
 
 ## Summary
-Include a short description of the changes (bug or feature), and their impact, along with a summary of the solution
+Short description of the changes (bug or feature)
+
+## Related JIRA issues
+[ONEXL-1](https://glovoapp.atlassian.net/browse/ONEXL-1)
 
 <!-- 
 ## Steps to Reproduce Bug and Validate Solution
-Include this section if the work is to address a bug. 
-Please, include steps to reproduce the bug and validate the solution. This should be detailed enough for a team member to confirm that the bug no longer occurs.
+If a bug: Please, include steps to reproduce the bug and validate the solution.
 -->
 
-## Related JIRA issues
-Link to the JIRA issues associated with this pull request: 
-[ONE-007](https://lolamarket.atlassian.net/browse/ONE-7)
 
+<!--
 ## Relevant logs or outputs
 Use this section to attach pictures/videos that demonstrate your changes working / healthy
+-->
 
 ## Checklist before requesting a review
 - [ ] I have tested my changes.
@@ -26,5 +27,5 @@ Use this section to attach pictures/videos that demonstrate your changes working
 
 <!--
 ## Other information or known dependencies
-Include this section if any other information or known dependencies are important to this PR.
+Include this section if any other information or known dependencies are important to this PR. Eg.: Breaking changes
 -->
